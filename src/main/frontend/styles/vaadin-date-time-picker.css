@@ -1,0 +1,4 @@
+:host([theme~="fullwidth"]) .slots {
+    display: flex;
+    --vaadin-field-default-width: 100%;
+}
